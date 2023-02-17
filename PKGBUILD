@@ -9,7 +9,7 @@ url="https://github.com/manjaro-libhybris/halium-10-gsi"
 license=('custom')
 provides=('halium-gsi')
 depends=('lxc')
-conflicts=('halium-10-gsi' 'halium-11-gsi')
+conflicts=('halium-9-gsi' 'halium-11-gsi')
 makedepends=('wget' 'tar')
 options=()
 
